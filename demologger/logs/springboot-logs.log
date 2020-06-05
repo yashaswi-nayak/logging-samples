@@ -1,0 +1,4 @@
+[INFO ] 2020-06-04 23:26:04.049 [main] DemologgerApplicationTests - Starting DemologgerApplicationTests on A2ML31752 with PID 51360 (started by M1037715 in C:\Users\M1037715\Documents\CTO\Samples\logging-samples\demologger)
+[DEBUG] 2020-06-04 23:26:04.053 [main] DemologgerApplicationTests - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+[INFO ] 2020-06-04 23:26:04.054 [main] DemologgerApplicationTests - No active profile set, falling back to default profiles: default
+[INFO ] 2020-06-04 23:26:06.619 [main] DemologgerApplicationTests - Started DemologgerApplicationTests in 2.925 seconds (JVM running for 4.329)

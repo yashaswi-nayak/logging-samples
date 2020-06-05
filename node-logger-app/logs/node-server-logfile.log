@@ -1,0 +1,8 @@
+2020-06-04T16:12:21.269Z [Node Log] info: Listening on Port: 3000
+2020-06-04T16:12:41.699Z [Node Log] warn: I am warning you!
+2020-06-04T16:13:23.490Z [Node Log] info: Listening on Port: 3000
+2020-06-04T16:14:09.315Z [Node File Log] info: Listening on Port: 3000
+2020-06-04T16:14:46.056Z [Node File Log] info: Listening on Port: 3000
+2020-06-05T06:29:05.307Z [Node File Log] info: Listening on Port: 3000
+2020-06-05T06:29:23.530Z [Node File Log] info: Hello
+2020-06-05T06:29:47.640Z [Node File Log] warn: I am warning you!
